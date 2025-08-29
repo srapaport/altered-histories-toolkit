@@ -85,7 +85,7 @@ This replication package enables researchers to reproduce the analysis of altere
 
 ### Option 1: Using Pre-computed Data (Recommended)
 
-The `data/` directory contains pre-computed datasets that allow you to reproduce all analyses without running the computationally intensive data collection process.
+The `data/` directory contains pre-computed datasets that allow you to reproduce all analyses without running the computationally intensive data collection process. It can be found on Zenodo: https://doi.org/10.5281/zenodo.15558282
 
 1. **Open the main analysis notebook:**
    ```bash
