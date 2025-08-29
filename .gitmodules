@@ -1,0 +1,9 @@
+[submodule "altered-history"]
+	path = altered-history
+	url = git@github.com:srapaport/altered-history.git
+[submodule "modified-files"]
+	path = modified-files
+	url = git@github.com:srapaport/modified-files.git
+[submodule "git-historian"]
+	path = git-historian
+	url = git@github.com:srapaport/git-historian.git
